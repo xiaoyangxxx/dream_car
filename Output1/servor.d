@@ -1,0 +1,17 @@
+.\output\servor.o: HARDWARE\Servo\servor.c
+.\output\servor.o: HARDWARE\Servo\servor.h
+.\output\servor.o: .\USER\stm32f10x.h
+.\output\servor.o: .\CORE\core_cm3.h
+.\output\servor.o: D:\aaaaa\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\servor.o: .\USER\system_stm32f10x.h
+.\output\servor.o: .\USER\stm32f10x_conf.h
+.\output\servor.o: .\FWlib\inc\stm32f10x_dma.h
+.\output\servor.o: .\USER\stm32f10x.h
+.\output\servor.o: .\FWlib\inc\stm32f10x_gpio.h
+.\output\servor.o: .\FWlib\inc\stm32f10x_rcc.h
+.\output\servor.o: .\FWlib\inc\stm32f10x_spi.h
+.\output\servor.o: .\FWlib\inc\stm32f10x_tim.h
+.\output\servor.o: .\FWlib\inc\stm32f10x_usart.h
+.\output\servor.o: .\FWlib\inc\misc.h
+.\output\servor.o: .\SYSTEM\delay\delay.h
+.\output\servor.o: .\HARDWARE\Common\common.h
